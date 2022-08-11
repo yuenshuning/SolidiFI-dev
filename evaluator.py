@@ -8,17 +8,15 @@ import inspection
 import os,sys
 import shutil, glob
 
-
-#tools = ["Oyente", "Securify", "Mythril", "Smartcheck", "Manticore","Slither"]
-tools = []
 bug_types = [
 {'tool':'Oyente','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','TOD','Overflow-Underflow']},
 {'tool':'Securify','bugs':['Re-entrancy','Unchecked-Send','Unhandled-Exceptions','TOD']},
-# {'tool':'Mythril','bugs':['Re-entrancy','Timestamp-Dependency','Unchecked-Send','Unhandled-Exceptions','Overflow-Underflow','tx.origin']},
-{'tool':'Mythril','bugs':['Overflow-Underflow','tx.origin']},
+{'tool':'Mythril','bugs':['Re-entrancy','Timestamp-Dependency','Unchecked-Send','Unhandled-Exceptions','Overflow-Underflow','tx.origin']},
 {'tool':'Smartcheck','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','Overflow-Underflow','tx.origin']},
 {'tool':'Manticore','bugs':['Re-entrancy','Overflow-Underflow']},
-{'tool':'Slither','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin']}]
+# {'tool':'Slither','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin']},
+{'tool':'Slither','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin','TOD','Overflow-Underflow']},
+{'tool':'Slither_dev','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin','TOD','Overflow-Underflow']}]
 
 
 contract_names_per_file = [{'file':'buggy_1.sol','names':['EIP20Interface','HotDollarsToken']},{'file':'buggy_2.sol','names':['CareerOnToken']},{'file':'buggy_3.sol','names':['CareerOnToken']},{'file':'buggy_4.sol','names':['PHO']},
@@ -56,31 +54,32 @@ contract_names_per_file = [{'file':'buggy_1.sol','names':['EIP20Interface','HotD
 {'file':'buggy_49.sol','names':['TAMC']},
 {'file':'buggy_50.sol','names':['digitalNotary']}]
 
-def evaluate_tools():
+def inject_bug(tools = []):
     # Contracts
     x = [ i for i in range(1,51)]
 
     if os.path.isdir("buggy"):
         shutil.rmtree("buggy")
 
-    #inject bug types in all contracts for each tool
-    # for tool in tools:    
-    #     for cs in x:
-    #         tool_bugs = [bugs['bugs'] for bugs in bug_types if  bugs['tool'] == tool]
-    #         for bug_type in tool_bugs[0]:
-    #             time = solidifi.interior_main("-i" ,"contracts/"+str(cs)+".sol" ,bug_type)
+    # inject bug types in all contracts for each tool
+    for tool in tools:
+        for cs in x:
+            tool_bugs = [bugs['bugs'] for bugs in bug_types if  bugs['tool'] == tool]
+            for bug_type in tool_bugs[0]:
+                time = solidifi.interior_main("-i" ,"contracts/"+str(cs)+".sol" ,bug_type)
 
-    #     tool_main_dir = os.path.join("tool_results",tool)
-    #     tool_buggy_sc = os.path.join(tool_main_dir,"analyzed_buggy_contracts")
-    #     os.system("rm -rf {0}".format(tool_buggy_sc))
-    #     os.makedirs(tool_buggy_sc,exist_ok=True)
-    #     mv_cmd = "mv buggy/* {0}".format(tool_buggy_sc)
-    #     os.system(mv_cmd)
-        
+        tool_main_dir = os.path.join("tool_results",tool)
+        tool_buggy_sc = os.path.join(tool_main_dir,"analyzed_buggy_contracts")
+        os.system("rm -rf {0}".format(tool_buggy_sc))
+        os.makedirs(tool_buggy_sc,exist_ok=True)
+        mv_cmd = "mv buggy/* {0}".format(tool_buggy_sc)
+        os.system(mv_cmd)
+
+def evaluate_tools(tools = []):
     #check the generated buggy contracts 
     for tool in tools:
     
-        tool_main_dir = os.path.join("tool_results",tool)
+        tool_main_dir = os.path.join("tool_results", tool)
         tool_buggy_sc = os.path.join(tool_main_dir,"analyzed_buggy_contracts")
         tool_bugs = [bugs['bugs'] for bugs in bug_types if  bugs['tool'] == tool]
 
@@ -93,7 +92,7 @@ def evaluate_tools():
             for buggy_sc in glob.glob(injected_scs+"/*.sol"): 
                 head, tail = os.path.split(buggy_sc)
                 result_file = tool_result_per_bug+"/"+tail+".txt"
-                if tool in ("Slither","Oyente"):
+                if tool in ("Slither", "Slither_dev", "Oyente"):
                     result_file = tool_result_per_bug+"/"+tail+".json"
 
                 if tool =='Oyente':
@@ -102,7 +101,6 @@ def evaluate_tools():
                     os.system(tool_cmd)
     
                 elif tool == 'Securify':
-                
                     #Securify command 
                     tool_cmd = "timeout 900 java -jar /securify/build/libs/securify.jar -fs {0} > {1}".format(buggy_sc,result_file)
                     os.system(tool_cmd)
@@ -136,7 +134,12 @@ def evaluate_tools():
                                             
                 elif tool == 'Slither':
                     #Slither command                 
-                    tool_cmd = "slither  {0} --json {1}".format(buggy_sc,result_file)
+                    tool_cmd = "slither {0} --json {1}".format(buggy_sc,result_file)
+                    os.system(tool_cmd)
+
+                elif tool == 'Slither_dev':
+                    #Slither command                 
+                    tool_cmd = "slither-dev {0} --json {1}".format(buggy_sc,result_file)
                     os.system(tool_cmd)
 
                 """
@@ -153,10 +156,12 @@ if __name__ == "__main__":
     if 1 != len(sys.argv):
         if sys.argv[1] in ('--help', '-h'):
             printUsage(sys.argv[0])
-                
-        tools= sys.argv[1].split(',')
-        # evaluate_tools()
-        inspection.Inspect_results(tools)
+        
+        # tools = ["Oyente", "Securify", "Mythril", "Smartcheck", "Manticore", "Slither", "Slither_dev"]
+        tools = sys.argv[1].split(',')
+        # inject_bug(["Slither", "Slither_dev"])
+        evaluate_tools(["Slither_dev"])
+        inspection.Inspect_results(["Slither_dev"])
         
     else:
         print("wrong number of parameters")

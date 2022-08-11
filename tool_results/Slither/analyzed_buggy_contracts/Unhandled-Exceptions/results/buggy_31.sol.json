@@ -11,7 +11,6 @@
             "source_mapping": {
               "start": 8767,
               "length": 133,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -32,7 +31,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -118,7 +116,6 @@
             "source_mapping": {
               "start": 8855,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -136,7 +133,6 @@
                 "source_mapping": {
                   "start": 8767,
                   "length": 133,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -157,7 +153,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -256,7 +251,6 @@
             "source_mapping": {
               "start": 4813,
               "length": 79,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -275,7 +269,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -384,7 +377,6 @@
             "source_mapping": {
               "start": 4870,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -402,7 +394,6 @@
                 "source_mapping": {
                   "start": 4813,
                   "length": 79,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -421,7 +412,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -543,7 +533,6 @@
             "source_mapping": {
               "start": 9548,
               "length": 80,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -562,7 +551,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -648,7 +636,6 @@
             "source_mapping": {
               "start": 9605,
               "length": 20,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -666,7 +653,6 @@
                 "source_mapping": {
                   "start": 9548,
                   "length": 80,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -685,7 +671,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -784,7 +769,6 @@
             "source_mapping": {
               "start": 3957,
               "length": 133,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -805,7 +789,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -914,7 +897,6 @@
             "source_mapping": {
               "start": 4045,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -932,7 +914,6 @@
                 "source_mapping": {
                   "start": 3957,
                   "length": 133,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -953,7 +934,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1075,7 +1055,6 @@
             "source_mapping": {
               "start": 8111,
               "length": 93,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1095,7 +1074,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1181,7 +1159,6 @@
             "source_mapping": {
               "start": 8179,
               "length": 20,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1199,7 +1176,6 @@
                 "source_mapping": {
                   "start": 8111,
                   "length": 93,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1219,7 +1195,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1318,7 +1293,6 @@
             "source_mapping": {
               "start": 6083,
               "length": 37,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1336,7 +1310,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1444,7 +1417,6 @@
             "source_mapping": {
               "start": 6154,
               "length": 163,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1466,7 +1438,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1586,7 +1557,6 @@
             "source_mapping": {
               "start": 4470,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1604,7 +1574,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1712,7 +1681,6 @@
             "source_mapping": {
               "start": 4501,
               "length": 158,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1734,7 +1702,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1854,7 +1821,6 @@
             "source_mapping": {
               "start": 6122,
               "length": 29,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1872,7 +1838,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -1980,7 +1945,6 @@
             "source_mapping": {
               "start": 6154,
               "length": 163,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2002,7 +1966,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2122,7 +2085,6 @@
             "source_mapping": {
               "start": 4432,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2140,7 +2102,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2248,7 +2209,6 @@
             "source_mapping": {
               "start": 4501,
               "length": 158,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2270,7 +2230,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2390,7 +2349,6 @@
             "source_mapping": {
               "start": 8910,
               "length": 637,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2426,7 +2384,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2512,7 +2469,6 @@
             "source_mapping": {
               "start": 9070,
               "length": 59,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2530,7 +2486,6 @@
                 "source_mapping": {
                   "start": 8910,
                   "length": 637,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2566,7 +2521,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2665,7 +2619,6 @@
             "source_mapping": {
               "start": 5257,
               "length": 108,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2685,7 +2638,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2794,7 +2746,6 @@
             "source_mapping": {
               "start": 5329,
               "length": 29,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2812,7 +2763,6 @@
                 "source_mapping": {
                   "start": 5257,
                   "length": 108,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2832,7 +2782,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2954,7 +2903,6 @@
             "source_mapping": {
               "start": 8111,
               "length": 93,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -2974,7 +2922,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3060,7 +3007,6 @@
             "source_mapping": {
               "start": 8179,
               "length": 20,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3078,7 +3024,6 @@
                 "source_mapping": {
                   "start": 8111,
                   "length": 93,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3098,7 +3043,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3197,7 +3141,6 @@
             "source_mapping": {
               "start": 6154,
               "length": 163,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3219,7 +3162,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3328,7 +3270,6 @@
             "source_mapping": {
               "start": 6239,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3346,7 +3287,6 @@
                 "source_mapping": {
                   "start": 6154,
                   "length": 163,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3368,7 +3308,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3490,7 +3429,6 @@
             "source_mapping": {
               "start": 4501,
               "length": 158,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3512,7 +3450,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3621,7 +3558,6 @@
             "source_mapping": {
               "start": 4584,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3639,7 +3575,6 @@
                 "source_mapping": {
                   "start": 4501,
                   "length": 158,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3661,7 +3596,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3783,7 +3717,6 @@
             "source_mapping": {
               "start": 3957,
               "length": 133,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3804,7 +3737,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3913,7 +3845,6 @@
             "source_mapping": {
               "start": 4045,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3931,7 +3862,6 @@
                 "source_mapping": {
                   "start": 3957,
                   "length": 133,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -3952,7 +3882,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4074,7 +4003,6 @@
             "source_mapping": {
               "start": 6948,
               "length": 96,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4094,7 +4022,6 @@
                 "source_mapping": {
                   "start": 6853,
                   "length": 1188,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4150,7 +4077,6 @@
             "source_mapping": {
               "start": 7018,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4168,7 +4094,6 @@
                 "source_mapping": {
                   "start": 6948,
                   "length": 96,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4188,7 +4113,6 @@
                     "source_mapping": {
                       "start": 6853,
                       "length": 1188,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4257,7 +4181,6 @@
             "source_mapping": {
               "start": 9548,
               "length": 80,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4276,7 +4199,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4362,7 +4284,6 @@
             "source_mapping": {
               "start": 9605,
               "length": 20,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4380,7 +4301,6 @@
                 "source_mapping": {
                   "start": 9548,
                   "length": 80,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4399,7 +4319,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4498,7 +4417,6 @@
             "source_mapping": {
               "start": 8767,
               "length": 133,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4519,7 +4437,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4605,7 +4522,6 @@
             "source_mapping": {
               "start": 8855,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4623,7 +4539,6 @@
                 "source_mapping": {
                   "start": 8767,
                   "length": 133,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4644,7 +4559,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4743,7 +4657,6 @@
             "source_mapping": {
               "start": 4813,
               "length": 79,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4762,7 +4675,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4871,7 +4783,6 @@
             "source_mapping": {
               "start": 4870,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4889,7 +4800,6 @@
                 "source_mapping": {
                   "start": 4813,
                   "length": 79,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -4908,7 +4818,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5030,7 +4939,6 @@
             "source_mapping": {
               "start": 5622,
               "length": 96,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5050,7 +4958,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5159,7 +5066,6 @@
             "source_mapping": {
               "start": 5692,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5177,7 +5083,6 @@
                 "source_mapping": {
                   "start": 5622,
                   "length": 96,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5197,7 +5102,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5319,7 +5223,6 @@
             "source_mapping": {
               "start": 3803,
               "length": 27,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5337,7 +5240,6 @@
                 "source_mapping": {
                   "start": 3773,
                   "length": 115,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5359,7 +5261,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5481,7 +5382,6 @@
             "source_mapping": {
               "start": 7333,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5499,7 +5399,6 @@
                 "source_mapping": {
                   "start": 7281,
                   "length": 184,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5525,7 +5424,6 @@
                     "source_mapping": {
                       "start": 6853,
                       "length": 1188,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5594,7 +5492,6 @@
             "source_mapping": {
               "start": 8261,
               "length": 22,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5612,7 +5509,6 @@
                 "source_mapping": {
                   "start": 8230,
                   "length": 164,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5637,7 +5533,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5736,7 +5631,6 @@
             "source_mapping": {
               "start": 8285,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5754,7 +5648,6 @@
                 "source_mapping": {
                   "start": 8230,
                   "length": 164,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5779,7 +5672,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5878,7 +5770,6 @@
             "source_mapping": {
               "start": 9859,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5896,7 +5787,6 @@
                 "source_mapping": {
                   "start": 9828,
                   "length": 118,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -5918,7 +5808,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6017,7 +5906,6 @@
             "source_mapping": {
               "start": 6973,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6035,7 +5923,6 @@
                 "source_mapping": {
                   "start": 6948,
                   "length": 96,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6055,7 +5942,6 @@
                     "source_mapping": {
                       "start": 6853,
                       "length": 1188,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6113,7 +5999,6 @@
             "source_mapping": {
               "start": 7018,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6131,7 +6016,6 @@
                 "source_mapping": {
                   "start": 6948,
                   "length": 96,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6151,7 +6035,6 @@
                     "source_mapping": {
                       "start": 6853,
                       "length": 1188,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6220,7 +6103,6 @@
             "source_mapping": {
               "start": 4834,
               "length": 20,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6238,7 +6120,6 @@
                 "source_mapping": {
                   "start": 4813,
                   "length": 79,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6257,7 +6138,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6368,7 +6248,6 @@
             "source_mapping": {
               "start": 4870,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6386,7 +6265,6 @@
                 "source_mapping": {
                   "start": 4813,
                   "length": 79,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6405,7 +6283,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6527,7 +6404,6 @@
             "source_mapping": {
               "start": 5647,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6545,7 +6421,6 @@
                 "source_mapping": {
                   "start": 5622,
                   "length": 96,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6565,7 +6440,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6676,7 +6550,6 @@
             "source_mapping": {
               "start": 5692,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6694,7 +6567,6 @@
                 "source_mapping": {
                   "start": 5622,
                   "length": 96,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6714,7 +6586,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6836,7 +6707,6 @@
             "source_mapping": {
               "start": 5284,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6854,7 +6724,6 @@
                 "source_mapping": {
                   "start": 5257,
                   "length": 108,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6874,7 +6743,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -6985,7 +6853,6 @@
             "source_mapping": {
               "start": 5329,
               "length": 29,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7003,7 +6870,6 @@
                 "source_mapping": {
                   "start": 5257,
                   "length": 108,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7023,7 +6889,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7145,7 +7010,6 @@
             "source_mapping": {
               "start": 8628,
               "length": 16,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7163,7 +7027,6 @@
                 "source_mapping": {
                   "start": 8592,
                   "length": 135,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7184,7 +7047,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7272,7 +7134,6 @@
             "source_mapping": {
               "start": 8663,
               "length": 18,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7290,7 +7151,6 @@
                 "source_mapping": {
                   "start": 8592,
                   "length": 135,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7311,7 +7171,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7410,7 +7269,6 @@
             "source_mapping": {
               "start": 8142,
               "length": 22,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7428,7 +7286,6 @@
                 "source_mapping": {
                   "start": 8111,
                   "length": 93,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7448,7 +7305,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7536,7 +7392,6 @@
             "source_mapping": {
               "start": 8179,
               "length": 20,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7554,7 +7409,6 @@
                 "source_mapping": {
                   "start": 8111,
                   "length": 93,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7574,7 +7428,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7673,7 +7526,6 @@
             "source_mapping": {
               "start": 9569,
               "length": 20,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7691,7 +7543,6 @@
                 "source_mapping": {
                   "start": 9548,
                   "length": 80,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7710,7 +7561,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7798,7 +7648,6 @@
             "source_mapping": {
               "start": 9605,
               "length": 20,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7816,7 +7665,6 @@
                 "source_mapping": {
                   "start": 9548,
                   "length": 80,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7835,7 +7683,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7934,7 +7781,6 @@
             "source_mapping": {
               "start": 1496,
               "length": 1891,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -7991,7 +7837,6 @@
                 "source_mapping": {
                   "start": 500,
                   "length": 2890,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8072,7 +7917,6 @@
             "source_mapping": {
               "start": 2004,
               "length": 164,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8094,7 +7938,6 @@
                 "source_mapping": {
                   "start": 1496,
                   "length": 1891,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8151,7 +7994,6 @@
                     "source_mapping": {
                       "start": 500,
                       "length": 2890,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8238,6 +8080,16 @@
         "confidence": "High"
       },
       {
+        "elements": [],
+        "description": "solc-0.5.12 is not recommended for deployment\n",
+        "markdown": "solc-0.5.12 is not recommended for deployment\n",
+        "first_markdown_element": "",
+        "id": "5f5adbf7dfdf650f4e405e8a73895297f69ab1c62e5bb9a8f2849bdff9222e5d",
+        "check": "solc-version",
+        "impact": "Informational",
+        "confidence": "High"
+      },
+      {
         "elements": [
           {
             "type": "pragma",
@@ -8245,7 +8097,6 @@
             "source_mapping": {
               "start": 68,
               "length": 25,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8282,7 +8133,6 @@
             "source_mapping": {
               "start": 5257,
               "length": 108,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8302,7 +8152,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8411,7 +8260,6 @@
             "source_mapping": {
               "start": 5329,
               "length": 29,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8429,7 +8277,6 @@
                 "source_mapping": {
                   "start": 5257,
                   "length": 108,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8449,7 +8296,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8571,7 +8417,6 @@
             "source_mapping": {
               "start": 6948,
               "length": 96,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8591,7 +8436,6 @@
                 "source_mapping": {
                   "start": 6853,
                   "length": 1188,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8662,7 +8506,6 @@
             "source_mapping": {
               "start": 4470,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8680,7 +8523,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8803,7 +8645,6 @@
             "source_mapping": {
               "start": 9828,
               "length": 118,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8825,7 +8666,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8926,7 +8766,6 @@
             "source_mapping": {
               "start": 8983,
               "length": 12,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8944,7 +8783,6 @@
                 "source_mapping": {
                   "start": 8910,
                   "length": 637,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -8980,7 +8818,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9083,7 +8920,6 @@
             "source_mapping": {
               "start": 6122,
               "length": 29,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9101,7 +8937,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9224,7 +9059,6 @@
             "source_mapping": {
               "start": 3773,
               "length": 115,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9246,7 +9080,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9370,7 +9203,6 @@
             "source_mapping": {
               "start": 4501,
               "length": 158,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9392,7 +9224,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9516,7 +9347,6 @@
             "source_mapping": {
               "start": 8728,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9534,7 +9364,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9634,7 +9463,6 @@
             "source_mapping": {
               "start": 6083,
               "length": 37,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9652,7 +9480,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9775,7 +9602,6 @@
             "source_mapping": {
               "start": 3957,
               "length": 133,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9796,7 +9622,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9920,7 +9745,6 @@
             "source_mapping": {
               "start": 4395,
               "length": 35,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -9938,7 +9762,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10061,7 +9884,6 @@
             "source_mapping": {
               "start": 5622,
               "length": 96,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10081,7 +9903,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10205,7 +10026,6 @@
             "source_mapping": {
               "start": 9658,
               "length": 19,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10223,7 +10043,6 @@
                 "source_mapping": {
                   "start": 9638,
                   "length": 189,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10245,7 +10064,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10348,7 +10166,6 @@
             "source_mapping": {
               "start": 8428,
               "length": 92,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10368,7 +10185,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10469,7 +10285,6 @@
             "source_mapping": {
               "start": 6154,
               "length": 163,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10491,7 +10306,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10615,7 +10429,6 @@
             "source_mapping": {
               "start": 3918,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10633,7 +10446,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10756,7 +10568,6 @@
             "source_mapping": {
               "start": 7281,
               "length": 184,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10782,7 +10593,6 @@
                 "source_mapping": {
                   "start": 6853,
                   "length": 1188,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10853,7 +10663,6 @@
             "source_mapping": {
               "start": 8767,
               "length": 133,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10874,7 +10683,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10975,7 +10783,6 @@
             "source_mapping": {
               "start": 8111,
               "length": 93,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -10995,7 +10802,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11096,7 +10902,6 @@
             "source_mapping": {
               "start": 4813,
               "length": 79,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11115,7 +10920,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11239,7 +11043,6 @@
             "source_mapping": {
               "start": 4432,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11257,7 +11060,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11380,7 +11182,6 @@
             "source_mapping": {
               "start": 8230,
               "length": 164,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11405,7 +11206,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11506,7 +11306,6 @@
             "source_mapping": {
               "start": 8936,
               "length": 11,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11524,7 +11323,6 @@
                 "source_mapping": {
                   "start": 8910,
                   "length": 637,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11560,7 +11358,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11663,7 +11460,6 @@
             "source_mapping": {
               "start": 8958,
               "length": 14,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11681,7 +11477,6 @@
                 "source_mapping": {
                   "start": 8910,
                   "length": 637,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11717,7 +11512,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11820,7 +11614,6 @@
             "source_mapping": {
               "start": 9548,
               "length": 80,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11839,7 +11632,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11940,7 +11732,6 @@
             "source_mapping": {
               "start": 5257,
               "length": 108,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -11960,7 +11751,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12084,7 +11874,6 @@
             "source_mapping": {
               "start": 9006,
               "length": 25,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12102,7 +11891,6 @@
                 "source_mapping": {
                   "start": 8910,
                   "length": 637,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12138,7 +11926,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12241,7 +12028,6 @@
             "source_mapping": {
               "start": 6045,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12259,7 +12045,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12382,7 +12167,6 @@
             "source_mapping": {
               "start": 4501,
               "length": 158,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12404,7 +12188,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12513,7 +12296,6 @@
             "source_mapping": {
               "start": 4584,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12531,7 +12313,6 @@
                 "source_mapping": {
                   "start": 4501,
                   "length": 158,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12553,7 +12334,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12667,7 +12447,6 @@
             "source_mapping": {
               "start": 4630,
               "length": 22,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12685,7 +12464,6 @@
                 "source_mapping": {
                   "start": 4501,
                   "length": 158,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12707,7 +12485,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12833,7 +12610,6 @@
             "source_mapping": {
               "start": 6154,
               "length": 163,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12855,7 +12631,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12964,7 +12739,6 @@
             "source_mapping": {
               "start": 6239,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -12982,7 +12756,6 @@
                 "source_mapping": {
                   "start": 6154,
                   "length": 163,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13004,7 +12777,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13118,7 +12890,6 @@
             "source_mapping": {
               "start": 6287,
               "length": 23,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13136,7 +12907,6 @@
                 "source_mapping": {
                   "start": 6154,
                   "length": 163,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13158,7 +12928,6 @@
                     "source_mapping": {
                       "start": 3752,
                       "length": 2567,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13284,7 +13053,6 @@
             "source_mapping": {
               "start": 8285,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13302,7 +13070,6 @@
                 "source_mapping": {
                   "start": 8230,
                   "length": 164,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13327,7 +13094,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13415,7 +13181,6 @@
             "source_mapping": {
               "start": 7333,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13433,7 +13198,6 @@
                 "source_mapping": {
                   "start": 7281,
                   "length": 184,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13459,7 +13223,6 @@
                     "source_mapping": {
                       "start": 6853,
                       "length": 1188,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13528,7 +13291,6 @@
             "source_mapping": {
               "start": 6045,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13546,7 +13308,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13654,7 +13415,6 @@
             "source_mapping": {
               "start": 3918,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13672,7 +13432,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13791,7 +13550,6 @@
             "source_mapping": {
               "start": 8285,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13809,7 +13567,6 @@
                 "source_mapping": {
                   "start": 8230,
                   "length": 164,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13834,7 +13591,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13922,7 +13678,6 @@
             "source_mapping": {
               "start": 9859,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13940,7 +13695,6 @@
                 "source_mapping": {
                   "start": 9828,
                   "length": 118,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -13962,7 +13716,6 @@
                     "source_mapping": {
                       "start": 8043,
                       "length": 1911,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14061,7 +13814,6 @@
             "source_mapping": {
               "start": 8728,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14079,7 +13831,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14175,7 +13926,6 @@
             "source_mapping": {
               "start": 4432,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14193,7 +13943,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14312,7 +14061,6 @@
             "source_mapping": {
               "start": 3918,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14330,7 +14078,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14449,7 +14196,6 @@
             "source_mapping": {
               "start": 4470,
               "length": 28,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14467,7 +14213,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14586,7 +14331,6 @@
             "source_mapping": {
               "start": 6122,
               "length": 29,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14604,7 +14348,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14723,7 +14466,6 @@
             "source_mapping": {
               "start": 6083,
               "length": 37,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14741,7 +14483,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14860,7 +14601,6 @@
             "source_mapping": {
               "start": 9548,
               "length": 80,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14879,7 +14619,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14976,7 +14715,6 @@
             "source_mapping": {
               "start": 8428,
               "length": 92,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -14996,7 +14734,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15093,7 +14830,6 @@
             "source_mapping": {
               "start": 3957,
               "length": 133,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15114,7 +14850,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15234,7 +14969,6 @@
             "source_mapping": {
               "start": 6948,
               "length": 96,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15254,7 +14988,6 @@
                 "source_mapping": {
                   "start": 6853,
                   "length": 1188,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15321,7 +15054,6 @@
             "source_mapping": {
               "start": 5257,
               "length": 108,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15341,7 +15073,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15461,7 +15192,6 @@
             "source_mapping": {
               "start": 8767,
               "length": 133,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15482,7 +15212,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15579,7 +15308,6 @@
             "source_mapping": {
               "start": 4735,
               "length": 77,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15599,7 +15327,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15719,7 +15446,6 @@
             "source_mapping": {
               "start": 4501,
               "length": 158,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15741,7 +15467,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15861,7 +15586,6 @@
             "source_mapping": {
               "start": 3773,
               "length": 115,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -15883,7 +15607,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16003,7 +15726,6 @@
             "source_mapping": {
               "start": 9828,
               "length": 118,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16025,7 +15747,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16122,7 +15843,6 @@
             "source_mapping": {
               "start": 5514,
               "length": 107,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16142,7 +15862,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16262,7 +15981,6 @@
             "source_mapping": {
               "start": 5622,
               "length": 96,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16282,7 +16000,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16402,7 +16119,6 @@
             "source_mapping": {
               "start": 7281,
               "length": 184,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16428,7 +16144,6 @@
                 "source_mapping": {
                   "start": 6853,
                   "length": 1188,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16495,7 +16210,6 @@
             "source_mapping": {
               "start": 8111,
               "length": 93,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16515,7 +16229,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16612,7 +16325,6 @@
             "source_mapping": {
               "start": 4813,
               "length": 79,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16631,7 +16343,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16751,7 +16462,6 @@
             "source_mapping": {
               "start": 6154,
               "length": 163,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16773,7 +16483,6 @@
                 "source_mapping": {
                   "start": 3752,
                   "length": 2567,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16893,7 +16602,6 @@
             "source_mapping": {
               "start": 8230,
               "length": 164,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
@@ -16918,7 +16626,6 @@
                 "source_mapping": {
                   "start": 8043,
                   "length": 1911,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Unhandled-Exceptions/buggy_31.sol",

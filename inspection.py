@@ -11,8 +11,6 @@ import pandas
 
 reported_bugs = []
 reported_non_injected = []
-tools = []
-#tools = ["Oyente", "Securify", "Mythril", "Smartcheck","Slither","Manticore"]
 main_dir ="tool_results"
 bug_types = [
 {'tool':'Oyente','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','TOD','Overflow-Underflow']},
@@ -20,15 +18,23 @@ bug_types = [
 {'tool':'Mythril','bugs':['Re-entrancy','Timestamp-Dependency','Unchecked-Send','Unhandled-Exceptions','Overflow-Underflow','tx.origin']},
 {'tool':'Smartcheck','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','Overflow-Underflow','tx.origin']},
 {'tool':'Manticore','bugs':['Re-entrancy','Overflow-Underflow']},
-{'tool':'Slither','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin']}]
+# {'tool':'Slither','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin']},
+{'tool':'Slither','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin','TOD','Overflow-Underflow']},
+{'tool':'Slither_dev','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin','TOD','Overflow-Underflow']}]
     
 securify_bug_codes =[{'bug':'Unhandled-Exceptions','codes':['UnhandledException']},{'bug':'TOD','codes':['TODAmount','TODReceiver','TODTransfer']},
 {'bug':'Unchecked-Send','codes':['UnrestrictedEtherFlow']},{'bug':'Re-entrancy','codes':['DAOConstantGas','DAO']}]
 mythril_bug_codes =[{'bug':'Unhandled-Exceptions','codes':['Unchecked Call Return Value']},{'bug':'Timestamp-Dependency','codes':['Dependence on predictable environment variable']},
 {'bug':'Overflow-Underflow','codes':['Integer Underflow','Integer Overflow']},{'bug':'tx.origin','codes':['Use of tx.origin']},{'bug':'Unchecked-Send','codes':['Unprotected Ether Withdrawal']},
 {'bug':'Re-entrancy','codes':['External Call To User-Supplied Address','External Call To Fixed Address','State change after external call']}]
+# slither_bug_codes =[{'bug':'Unhandled-Exceptions','codes':['unchecked-send','unchecked-lowlevel']},{'bug':'Timestamp-Dependency','codes':['timestamp']},
+# {'bug':'tx.origin','codes':['tx-origin']},{'bug':'Re-entrancy','codes':['reentrancy-benign','reentrancy-eth','reentrancy-unlimited-gas','reentrancy-no-eth']}]
 slither_bug_codes =[{'bug':'Unhandled-Exceptions','codes':['unchecked-send','unchecked-lowlevel']},{'bug':'Timestamp-Dependency','codes':['timestamp']},
-{'bug':'tx.origin','codes':['tx-origin']},{'bug':'Re-entrancy','codes':['reentrancy-benign','reentrancy-eth','reentrancy-unlimited-gas','reentrancy-no-eth']}]
+{'bug':'tx.origin','codes':['tx-origin']},{'bug':'Re-entrancy','codes':['reentrancy-benign','reentrancy-eth','reentrancy-unlimited-gas','reentrancy-no-eth']},
+{'bug':'TOD','codes':['TOD']},{'bug':'Overflow-Underflow','codes':['overflow-integer']}]
+slither_dev_bug_codes =[{'bug':'Unhandled-Exceptions','codes':['unchecked-send','unchecked-lowlevel']},{'bug':'Timestamp-Dependency','codes':['timestamp']},
+{'bug':'tx.origin','codes':['tx-origin']},{'bug':'Re-entrancy','codes':['reentrancy-benign','reentrancy-eth','reentrancy-unlimited-gas','reentrancy-no-eth']},
+{'bug':'TOD','codes':['TOD']},{'bug':'Overflow-Underflow','codes':['overflow-integer']}]
 smartcheck_bug_codes =[{'bug':'Unhandled-Exceptions','codes':['SOLIDITY_UNCHECKED_CALL']},{'bug':'Timestamp-Dependency','codes':['SOLIDITY_EXACT_TIME','VYPER_TIMESTAMP_DEPENDENCE']},
 {'bug':'Overflow-Underflow','codes':['SOLIDITY_UINT_CANT_BE_NEGATIVE']},{'bug':'tx.origin','codes':['SOLIDITY_TX_ORIGIN']},{'bug':'Re-entrancy','codes':['SOLIDITY_ETRNANCY']}]
 oyente_bug_codes =[{'bug':'Unhandled-Exceptions','codes':['Callstack Depth Attack Vulnerability']},{'bug':'Timestamp-Dependency','codes':['Timestamp Dependency']},
@@ -81,6 +87,7 @@ def Inspect_results(_tools = []):
     mythril_FNs = []
     smartcheck_FNs = []
     slither_FNs = []
+    slither_dev_FNs = []
     manticore_FNs = []
     
     oyente_FPs = []
@@ -88,6 +95,7 @@ def Inspect_results(_tools = []):
     mythril_FPs = []
     smartcheck_FPs = []
     slither_FPs = []
+    slither_dev_FPs = []
     manticore_FPs = []
 
     tools = _tools
@@ -112,6 +120,9 @@ def Inspect_results(_tools = []):
             slither_ibugs =0
             slither_bug_fn =0
             slither_misclas =0
+            slither_dev_ibugs =0
+            slither_dev_bug_fn =0
+            slither_dev_misclas =0
             manticore_ibugs =0
             manticore_bug_fn =0
             manticore_misclas =0
@@ -124,7 +135,7 @@ def Inspect_results(_tools = []):
                 bug_log =injected_scs+"/BugLog_"+str(cs)+".csv"
                 buggy_sc =injected_scs+"/buggy_"+str(cs)+".sol"
                 result_file = injected_scs+"/results/buggy_"+str(cs)+".sol.txt"
-                if tool in ("Slither","Oyente"):
+                if tool in ("Slither","Slither_dev","Oyente"):
                     result_file = injected_scs+"/results/buggy_"+str(cs)+".sol.json"
 
                 #Read the injected bug logs
@@ -264,6 +275,57 @@ def Inspect_results(_tools = []):
                     slither_ibugs +=(len(bug_log_list)-1)
                     slither_bug_fn +=len(false_negatives)
                     slither_misclas +=len(misclassifications)
+                                
+                    #Inspect flase positives
+                    false_positives = []
+                    for dbug in tool_reported_bugs:
+                        injected = False
+                        for ibug in bug_log_list[1:len(bug_log_list)]:
+                            if int(dbug['lines']) >= int(ibug[0]) and int(dbug['lines']) < (int(ibug[0])+int(ibug[1])):
+                                injected = True
+                        if injected == False:
+                            reported_non_injected.append(dbug)
+                
+                elif tool == 'Slither_dev':
+                    reported_bugs = []
+                 
+                    #""locations of all reported bug patterns in the tool generated report""
+                    with open(result_file) as fh:
+                        result_file_data = json.loads(fh.read())
+                    violation_locs = get_all_childs(result_file_data)
+                    
+                    for viol in violation_locs:
+                        line = re.findall(r'(?<=sol#)[0-9]*(?=\))',viol['desc'])
+                        if len(line)>0:
+                            bugLine = int (line[0])                        
+                        bugType = viol['type']
+                        reported_bugs.append({'tool':tool,'lines':bugLine,'bugType':bugType,'contract':cs})
+                        
+                                      
+                    #Inspect flase negatives                 
+                    false_negatives = []
+                    misclassifications = []
+                    tool_reported_bugs = [bugs for bugs in reported_bugs if  bugs['tool'] == tool and bugs['contract'] ==cs]
+                    tool_bug_codes = [codes for codes in slither_dev_bug_codes if  codes['bug'] == bug_type]                     
+                    for ibug in bug_log_list[1:len(bug_log_list)]:
+                        detected = False
+                        misclassified = False
+                        for dbug in tool_reported_bugs:
+                            if int(dbug['lines']) >= int(ibug[0]) and int(dbug['lines']) < (int(ibug[0])+int(ibug[1])):
+                                if dbug['bugType'].strip() in tool_bug_codes[0]['codes']:
+                                    detected = True
+                                else: 
+                                    misclassified = True
+
+                        if detected == False:
+                            false_negatives.append(ibug) 
+                        if misclassified == True and detected == False:
+                            misclassifications.append(ibug)
+                 
+                    #print(false_negatives) 
+                    slither_dev_ibugs +=(len(bug_log_list)-1)
+                    slither_dev_bug_fn +=len(false_negatives)
+                    slither_dev_misclas +=len(misclassifications)
                                 
                     #Inspect flase positives
                     false_positives = []
@@ -437,6 +499,8 @@ def Inspect_results(_tools = []):
                 smartcheck_FNs.append({'BugType':bug_type,'InjectedBugs':smartcheck_ibugs,'FalseNegatives':smartcheck_bug_fn,'MisClassified':smartcheck_misclas,'UnDetected':(smartcheck_bug_fn-smartcheck_misclas)})
             elif tool =="Slither":
                 slither_FNs.append({'BugType':bug_type,'InjectedBugs':slither_ibugs,'FalseNegatives':slither_bug_fn,'MisClassified':slither_misclas,'UnDetected':(slither_bug_fn-slither_misclas)})
+            elif tool =="Slither_dev":
+                slither_dev_FNs.append({'BugType':bug_type,'InjectedBugs':slither_dev_ibugs,'FalseNegatives':slither_dev_bug_fn,'MisClassified':slither_dev_misclas,'UnDetected':(slither_dev_bug_fn-slither_dev_misclas)})
             elif tool =="Manticore":
                 manticore_FNs.append({'BugType':bug_type,'InjectedBugs':manticore_ibugs,'FalseNegatives':manticore_bug_fn,'MisClassified':manticore_misclas,'UnDetected':(manticore_bug_fn-manticore_misclas)})
    
@@ -462,6 +526,9 @@ def Inspect_results(_tools = []):
                         writer.writerow(data)
                 elif tool =="Slither":
                     for data in slither_FNs:
+                        writer.writerow(data)
+                elif tool =="Slither_dev":
+                    for data in slither_dev_FNs:
                         writer.writerow(data)
                 elif tool =="Manticore":
                     for data in manticore_FNs:
@@ -598,6 +665,28 @@ def Inspect_results(_tools = []):
                 slither_FPs.append({'BugType':bug,'FalsePositives':fp_count,'ExcludedByMajority':excluded,'Total':(fp_count+excluded)})
             slither_FPs.append({'BugType':'Other','FalsePositives':other_count,'ExcludedByMajority':0,'Total':other_count})
 
+        elif tool == "Slither_dev":
+            tool_bugs = [bugs['bug'] for bugs in slither_dev_bug_codes]
+            for bug in tool_bugs:
+                fp_count = 0
+                excluded = 0
+                other_count = 0
+                bug_type_threshold = [thr['threshold'] for thr in thresholds if thr['bug']==bug][0]
+                for sc in x:
+                    type_specific_bugs = [bugs for bugs in coded_reported_non_injected  if  bugs['tool'] == tool and bugs['bugType'] == bug and bugs['contract']==sc]
+                    other_bugs= [bugs for bugs in coded_reported_non_injected  if  bugs['tool'] == tool and bugs['bugType'] not in tool_bugs and bugs['contract']==sc]
+                    other_count += len(other_bugs)
+                    
+                    for sbugs in type_specific_bugs:
+                        tools_deteced_bug = [bugs for bugs in coded_reported_non_injected  if  bugs['lines'] == sbugs['lines'] and bugs['bugType']== bug and bugs['contract']==sc] 
+                        if not len(tools_deteced_bug) >= bug_type_threshold:
+                            fp_count +=1                            
+                        else:
+                            excluded +=1
+                
+                slither_dev_FPs.append({'BugType':bug,'FalsePositives':fp_count,'ExcludedByMajority':excluded,'Total':(fp_count+excluded)})
+            slither_dev_FPs.append({'BugType':'Other','FalsePositives':other_count,'ExcludedByMajority':0,'Total':other_count})
+
         if tool == "Manticore":
             tool_bugs = [bugs['bug'] for bugs in manticore_bug_codes]
             for bug in tool_bugs:
@@ -642,6 +731,9 @@ def Inspect_results(_tools = []):
                         writer.writerow(data)
                 elif tool =="Slither":
                     for data in slither_FPs:
+                        writer.writerow(data)
+                elif tool =="Slither_dev":
+                    for data in slither_dev_FPs:
                         writer.writerow(data)
                 elif tool =="Manticore":
                     for data in manticore_FPs:
@@ -699,6 +791,15 @@ def get_bug_type(bug_info):
                 return bugType
             
         return bug_info['bugType'] 
+    
+    elif bug_info['tool'] == "Slither_dev":
+        tool_bugs = [bugs['bug'] for bugs in slither_dev_bug_codes]
+        for bugType in tool_bugs:
+            bug_codes = [codes['codes'] for codes in slither_dev_bug_codes if  codes['bug'] == bugType]
+            if bug_info['bugType'] in bug_codes[0]:
+                return bugType
+            
+        return bug_info['bugType'] 
 
     elif bug_info['tool'] == "Manticore":
         tool_bugs = [bugs['bug'] for bugs in manticore_bug_codes]
@@ -721,7 +822,7 @@ def extract_detected_bug(result_file, bug_info, tool, contract):
 
     elif tool == "Mythril":
         try:
-            bugLine =int(re.findall(r'sol:(\d+)',inject_file.get_snippet_at_line(result_file,inject_file.get_line_at_offset(result_file,bug_info['eoffset'])+1))[0])
+            bugLine =int(re.findall(r'sol:(\d+)',inject_file.get_snippet_at_line(result_filees,inject_file.get_line_at_offset(result_file,bug_info['eoffset'])+1))[0])
             bugType = re.findall(r'(?<== )(.*)(?= =)',inject_file.get_snippet_at_line(result_file,int(bug_info['line'])))[0]
             reported_bugs.append({'tool':tool,'lines':bugLine,'bugType':bugType,'contract':contract})
         except IndexError:

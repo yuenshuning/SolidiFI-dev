@@ -11,7 +11,6 @@
             "source_mapping": {
               "start": 101,
               "length": 4824,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -164,7 +163,6 @@
             "source_mapping": {
               "start": 1386,
               "length": 48,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -182,7 +180,6 @@
                 "source_mapping": {
                   "start": 687,
                   "length": 781,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -215,7 +212,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -384,7 +380,6 @@
             "source_mapping": {
               "start": 394,
               "length": 155,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -405,7 +400,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -561,7 +555,6 @@
             "source_mapping": {
               "start": 479,
               "length": 34,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -579,7 +572,6 @@
                 "source_mapping": {
                   "start": 394,
                   "length": 155,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -600,7 +592,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -769,7 +760,6 @@
             "source_mapping": {
               "start": 898,
               "length": 34,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -787,7 +777,6 @@
                 "source_mapping": {
                   "start": 687,
                   "length": 781,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -820,7 +809,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -989,7 +977,6 @@
             "source_mapping": {
               "start": 394,
               "length": 155,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1010,7 +997,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1166,7 +1152,6 @@
             "source_mapping": {
               "start": 479,
               "length": 34,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1184,7 +1169,6 @@
                 "source_mapping": {
                   "start": 394,
                   "length": 155,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1205,7 +1189,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1374,7 +1357,6 @@
             "source_mapping": {
               "start": 1469,
               "length": 98,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1394,7 +1376,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1550,7 +1531,6 @@
             "source_mapping": {
               "start": 1526,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1568,7 +1548,6 @@
                 "source_mapping": {
                   "start": 1469,
                   "length": 98,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1588,7 +1567,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1757,7 +1735,6 @@
             "source_mapping": {
               "start": 3463,
               "length": 580,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1788,7 +1765,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1944,7 +1920,6 @@
             "source_mapping": {
               "start": 3916,
               "length": 11,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1962,7 +1937,6 @@
                 "source_mapping": {
                   "start": 3463,
                   "length": 580,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -1993,7 +1967,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2162,7 +2135,6 @@
             "source_mapping": {
               "start": 1640,
               "length": 885,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2196,7 +2168,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2352,7 +2323,6 @@
             "source_mapping": {
               "start": 2130,
               "length": 11,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2370,7 +2340,6 @@
                 "source_mapping": {
                   "start": 1640,
                   "length": 885,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2404,7 +2373,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2566,6 +2534,16 @@
         "confidence": "High"
       },
       {
+        "elements": [],
+        "description": "solc-0.5.12 is not recommended for deployment\n",
+        "markdown": "solc-0.5.12 is not recommended for deployment\n",
+        "first_markdown_element": "",
+        "id": "5f5adbf7dfdf650f4e405e8a73895297f69ab1c62e5bb9a8f2849bdff9222e5d",
+        "check": "solc-version",
+        "impact": "Informational",
+        "confidence": "High"
+      },
+      {
         "elements": [
           {
             "type": "pragma",
@@ -2573,7 +2551,6 @@
             "source_mapping": {
               "start": 67,
               "length": 32,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2613,7 +2590,6 @@
             "source_mapping": {
               "start": 369,
               "length": 23,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2631,7 +2607,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2801,7 +2776,6 @@
             "source_mapping": {
               "start": 2526,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2819,7 +2793,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -2989,7 +2962,6 @@
             "source_mapping": {
               "start": 3354,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3007,7 +2979,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3177,7 +3148,6 @@
             "source_mapping": {
               "start": 4212,
               "length": 18,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3195,7 +3165,6 @@
                 "source_mapping": {
                   "start": 4154,
                   "length": 727,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3226,7 +3195,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3399,7 +3367,6 @@
             "source_mapping": {
               "start": 795,
               "length": 24,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3417,7 +3384,6 @@
                 "source_mapping": {
                   "start": 687,
                   "length": 781,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3450,7 +3416,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3623,7 +3588,6 @@
             "source_mapping": {
               "start": 687,
               "length": 781,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3656,7 +3620,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3827,7 +3790,6 @@
             "source_mapping": {
               "start": 4044,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -3845,7 +3807,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4015,7 +3976,6 @@
             "source_mapping": {
               "start": 394,
               "length": 155,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4036,7 +3996,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4207,7 +4166,6 @@
             "source_mapping": {
               "start": 821,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4225,7 +4183,6 @@
                 "source_mapping": {
                   "start": 687,
                   "length": 781,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4258,7 +4215,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4431,7 +4387,6 @@
             "source_mapping": {
               "start": 2868,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4449,7 +4404,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4619,7 +4573,6 @@
             "source_mapping": {
               "start": 3068,
               "length": 24,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4637,7 +4590,6 @@
                 "source_mapping": {
                   "start": 2965,
                   "length": 388,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4660,7 +4612,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4833,7 +4784,6 @@
             "source_mapping": {
               "start": 4882,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -4851,7 +4801,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5021,7 +4970,6 @@
             "source_mapping": {
               "start": 741,
               "length": 23,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5039,7 +4987,6 @@
                 "source_mapping": {
                   "start": 687,
                   "length": 781,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5072,7 +5019,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5245,7 +5191,6 @@
             "source_mapping": {
               "start": 1640,
               "length": 885,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5279,7 +5224,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5450,7 +5394,6 @@
             "source_mapping": {
               "start": 3094,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5468,7 +5411,6 @@
                 "source_mapping": {
                   "start": 2965,
                   "length": 388,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5491,7 +5433,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5664,7 +5605,6 @@
             "source_mapping": {
               "start": 1469,
               "length": 98,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5684,7 +5624,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5855,7 +5794,6 @@
             "source_mapping": {
               "start": 766,
               "length": 27,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5873,7 +5811,6 @@
                 "source_mapping": {
                   "start": 687,
                   "length": 781,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -5906,7 +5843,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6079,7 +6015,6 @@
             "source_mapping": {
               "start": 3019,
               "length": 23,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6097,7 +6032,6 @@
                 "source_mapping": {
                   "start": 2965,
                   "length": 388,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6120,7 +6054,6 @@
                     "source_mapping": {
                       "start": 101,
                       "length": 4824,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6293,7 +6226,6 @@
             "source_mapping": {
               "start": 3354,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6311,7 +6243,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6466,7 +6397,6 @@
             "source_mapping": {
               "start": 4044,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6484,7 +6414,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6650,7 +6579,6 @@
             "source_mapping": {
               "start": 4044,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6668,7 +6596,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6823,7 +6750,6 @@
             "source_mapping": {
               "start": 2526,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -6841,7 +6767,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7007,7 +6932,6 @@
             "source_mapping": {
               "start": 3354,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7025,7 +6949,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7180,7 +7103,6 @@
             "source_mapping": {
               "start": 2526,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7198,7 +7120,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7364,7 +7285,6 @@
             "source_mapping": {
               "start": 4882,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7382,7 +7302,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7537,7 +7456,6 @@
             "source_mapping": {
               "start": 2526,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7555,7 +7473,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7721,7 +7638,6 @@
             "source_mapping": {
               "start": 4044,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7739,7 +7655,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7894,7 +7809,6 @@
             "source_mapping": {
               "start": 4882,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -7912,7 +7826,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8078,7 +7991,6 @@
             "source_mapping": {
               "start": 3354,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8096,7 +8008,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8251,7 +8162,6 @@
             "source_mapping": {
               "start": 4882,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8269,7 +8179,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8435,7 +8344,6 @@
             "source_mapping": {
               "start": 2868,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8453,7 +8361,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8608,7 +8515,6 @@
             "source_mapping": {
               "start": 3354,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8626,7 +8532,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8792,7 +8697,6 @@
             "source_mapping": {
               "start": 2868,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8810,7 +8714,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8965,7 +8868,6 @@
             "source_mapping": {
               "start": 4044,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -8983,7 +8885,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9149,7 +9050,6 @@
             "source_mapping": {
               "start": 2868,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9167,7 +9067,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9322,7 +9221,6 @@
             "source_mapping": {
               "start": 4882,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9340,7 +9238,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9506,7 +9403,6 @@
             "source_mapping": {
               "start": 2868,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9524,7 +9420,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9679,7 +9574,6 @@
             "source_mapping": {
               "start": 2526,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9697,7 +9591,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9863,7 +9756,6 @@
             "source_mapping": {
               "start": 4044,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -9881,7 +9773,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -10036,7 +9927,6 @@
             "source_mapping": {
               "start": 101,
               "length": 4824,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -10200,7 +10090,6 @@
             "source_mapping": {
               "start": 3354,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -10218,7 +10107,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -10373,7 +10261,6 @@
             "source_mapping": {
               "start": 101,
               "length": 4824,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -10537,7 +10424,6 @@
             "source_mapping": {
               "start": 2526,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -10555,7 +10441,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -10710,7 +10595,6 @@
             "source_mapping": {
               "start": 101,
               "length": 4824,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -10874,7 +10758,6 @@
             "source_mapping": {
               "start": 2868,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -10892,7 +10775,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11047,7 +10929,6 @@
             "source_mapping": {
               "start": 101,
               "length": 4824,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11211,7 +11092,6 @@
             "source_mapping": {
               "start": 4882,
               "length": 38,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11229,7 +11109,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11384,7 +11263,6 @@
             "source_mapping": {
               "start": 101,
               "length": 4824,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11548,7 +11426,6 @@
             "source_mapping": {
               "start": 687,
               "length": 781,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11581,7 +11458,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11748,7 +11624,6 @@
             "source_mapping": {
               "start": 394,
               "length": 155,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11769,7 +11644,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11936,7 +11810,6 @@
             "source_mapping": {
               "start": 1640,
               "length": 885,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -11970,7 +11843,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -12137,7 +12009,6 @@
             "source_mapping": {
               "start": 1469,
               "length": 98,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -12157,7 +12028,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -12324,7 +12194,6 @@
             "source_mapping": {
               "start": 4154,
               "length": 727,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -12355,7 +12224,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -12522,7 +12390,6 @@
             "source_mapping": {
               "start": 3463,
               "length": 580,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
@@ -12553,7 +12420,6 @@
                 "source_mapping": {
                   "start": 101,
                   "length": 4824,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Timestamp-Dependency/buggy_46.sol",

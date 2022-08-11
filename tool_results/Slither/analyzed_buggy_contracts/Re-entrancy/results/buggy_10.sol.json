@@ -11,7 +11,6 @@
             "source_mapping": {
               "start": 3640,
               "length": 189,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -35,7 +34,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -158,7 +156,6 @@
             "source_mapping": {
               "start": 3722,
               "length": 29,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -176,7 +173,6 @@
                 "source_mapping": {
                   "start": 3640,
                   "length": 189,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -200,7 +196,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -336,7 +331,6 @@
             "source_mapping": {
               "start": 1423,
               "length": 229,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -361,7 +355,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -484,7 +477,6 @@
             "source_mapping": {
               "start": 1501,
               "length": 50,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -502,7 +494,6 @@
                 "source_mapping": {
                   "start": 1423,
                   "length": 229,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -527,7 +518,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -663,7 +653,6 @@
             "source_mapping": {
               "start": 1960,
               "length": 180,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -687,7 +676,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -810,7 +798,6 @@
             "source_mapping": {
               "start": 2038,
               "length": 30,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -828,7 +815,6 @@
                 "source_mapping": {
                   "start": 1960,
                   "length": 180,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -852,7 +838,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -988,7 +973,6 @@
             "source_mapping": {
               "start": 3099,
               "length": 374,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1014,7 +998,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1137,7 +1120,6 @@
             "source_mapping": {
               "start": 3287,
               "length": 76,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1155,7 +1137,6 @@
                 "source_mapping": {
                   "start": 3099,
                   "length": 374,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1181,7 +1162,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1309,7 +1289,6 @@
             "source_mapping": {
               "start": 3430,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1327,7 +1306,6 @@
                 "source_mapping": {
                   "start": 3099,
                   "length": 374,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1353,7 +1331,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1493,7 +1470,6 @@
             "source_mapping": {
               "start": 2469,
               "length": 373,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1519,7 +1495,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1642,7 +1617,6 @@
             "source_mapping": {
               "start": 2657,
               "length": 75,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1660,7 +1634,6 @@
                 "source_mapping": {
                   "start": 2469,
                   "length": 373,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1686,7 +1659,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1814,7 +1786,6 @@
             "source_mapping": {
               "start": 2799,
               "length": 36,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1832,7 +1803,6 @@
                 "source_mapping": {
                   "start": 2469,
                   "length": 373,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1858,7 +1828,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -1998,7 +1967,6 @@
             "source_mapping": {
               "start": 1423,
               "length": 229,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2023,7 +1991,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2146,7 +2113,6 @@
             "source_mapping": {
               "start": 1501,
               "length": 50,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2164,7 +2130,6 @@
                 "source_mapping": {
                   "start": 1423,
                   "length": 229,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2189,7 +2154,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2317,7 +2281,6 @@
             "source_mapping": {
               "start": 1618,
               "length": 27,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2335,7 +2298,6 @@
                 "source_mapping": {
                   "start": 1423,
                   "length": 229,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2360,7 +2322,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2500,7 +2461,6 @@
             "source_mapping": {
               "start": 95,
               "length": 33,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2533,6 +2493,16 @@
         "confidence": "High"
       },
       {
+        "elements": [],
+        "description": "solc-0.5.12 is not recommended for deployment\n",
+        "markdown": "solc-0.5.12 is not recommended for deployment\n",
+        "first_markdown_element": "",
+        "id": "5f5adbf7dfdf650f4e405e8a73895297f69ab1c62e5bb9a8f2849bdff9222e5d",
+        "check": "solc-version",
+        "impact": "Informational",
+        "confidence": "High"
+      },
+      {
         "elements": [
           {
             "type": "function",
@@ -2540,7 +2510,6 @@
             "source_mapping": {
               "start": 3099,
               "length": 374,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2566,7 +2535,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2689,7 +2657,6 @@
             "source_mapping": {
               "start": 3287,
               "length": 76,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2707,7 +2674,6 @@
                 "source_mapping": {
                   "start": 3099,
                   "length": 374,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2733,7 +2699,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2869,7 +2834,6 @@
             "source_mapping": {
               "start": 1423,
               "length": 229,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -2894,7 +2858,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3017,7 +2980,6 @@
             "source_mapping": {
               "start": 1501,
               "length": 50,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3035,7 +2997,6 @@
                 "source_mapping": {
                   "start": 1423,
                   "length": 229,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3060,7 +3021,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3196,7 +3156,6 @@
             "source_mapping": {
               "start": 2469,
               "length": 373,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3222,7 +3181,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3345,7 +3303,6 @@
             "source_mapping": {
               "start": 2657,
               "length": 75,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3363,7 +3320,6 @@
                 "source_mapping": {
                   "start": 2469,
                   "length": 373,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3389,7 +3345,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3525,7 +3480,6 @@
             "source_mapping": {
               "start": 3500,
               "length": 18,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3543,7 +3497,6 @@
                 "source_mapping": {
                   "start": 3483,
                   "length": 123,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3563,7 +3516,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3703,7 +3655,6 @@
             "source_mapping": {
               "start": 3099,
               "length": 374,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3729,7 +3680,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3867,7 +3817,6 @@
             "source_mapping": {
               "start": 1043,
               "length": 283,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -3890,7 +3839,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4028,7 +3976,6 @@
             "source_mapping": {
               "start": 2469,
               "length": 373,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4054,7 +4001,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4192,7 +4138,6 @@
             "source_mapping": {
               "start": 596,
               "length": 42,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4210,7 +4155,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4347,7 +4291,6 @@
             "source_mapping": {
               "start": 3640,
               "length": 189,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4371,7 +4314,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4509,7 +4451,6 @@
             "source_mapping": {
               "start": 2422,
               "length": 45,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4527,7 +4468,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4664,7 +4604,6 @@
             "source_mapping": {
               "start": 1390,
               "length": 31,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4682,7 +4621,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4819,7 +4757,6 @@
             "source_mapping": {
               "start": 1960,
               "length": 180,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4843,7 +4780,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4981,7 +4917,6 @@
             "source_mapping": {
               "start": 2168,
               "length": 16,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -4999,7 +4934,6 @@
                 "source_mapping": {
                   "start": 2146,
                   "length": 275,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5023,7 +4957,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5163,7 +5096,6 @@
             "source_mapping": {
               "start": 1721,
               "length": 18,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5181,7 +5113,6 @@
                 "source_mapping": {
                   "start": 1697,
                   "length": 233,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5205,7 +5136,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5345,7 +5275,6 @@
             "source_mapping": {
               "start": 1931,
               "length": 27,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5363,7 +5292,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5500,7 +5428,6 @@
             "source_mapping": {
               "start": 1423,
               "length": 229,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5525,7 +5452,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5663,7 +5589,6 @@
             "source_mapping": {
               "start": 2871,
               "length": 16,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5681,7 +5606,6 @@
                 "source_mapping": {
                   "start": 2852,
                   "length": 199,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5702,7 +5626,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5842,7 +5765,6 @@
             "source_mapping": {
               "start": 158,
               "length": 49,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5860,7 +5782,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -5997,7 +5918,6 @@
             "source_mapping": {
               "start": 3052,
               "length": 45,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6015,7 +5935,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6152,7 +6071,6 @@
             "source_mapping": {
               "start": 3607,
               "length": 31,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6170,7 +6088,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6307,7 +6224,6 @@
             "source_mapping": {
               "start": 999,
               "length": 42,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6325,7 +6241,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6462,7 +6377,6 @@
             "source_mapping": {
               "start": 644,
               "length": 160,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6483,7 +6397,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6621,7 +6534,6 @@
             "source_mapping": {
               "start": 209,
               "length": 344,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6645,7 +6557,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6783,7 +6694,6 @@
             "source_mapping": {
               "start": 1076,
               "length": 22,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6801,7 +6711,6 @@
                 "source_mapping": {
                   "start": 1043,
                   "length": 283,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6824,7 +6733,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6964,7 +6872,6 @@
             "source_mapping": {
               "start": 1043,
               "length": 283,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -6987,7 +6894,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7110,7 +7016,6 @@
             "source_mapping": {
               "start": 1215,
               "length": 40,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7128,7 +7033,6 @@
                 "source_mapping": {
                   "start": 1043,
                   "length": 283,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7151,7 +7055,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7279,7 +7182,6 @@
             "source_mapping": {
               "start": 1272,
               "length": 47,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7297,7 +7199,6 @@
                 "source_mapping": {
                   "start": 1043,
                   "length": 283,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7320,7 +7221,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7460,7 +7360,6 @@
             "source_mapping": {
               "start": 209,
               "length": 344,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7484,7 +7383,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7607,7 +7505,6 @@
             "source_mapping": {
               "start": 445,
               "length": 43,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7625,7 +7522,6 @@
                 "source_mapping": {
                   "start": 209,
                   "length": 344,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7649,7 +7545,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7777,7 +7672,6 @@
             "source_mapping": {
               "start": 506,
               "length": 40,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7795,7 +7689,6 @@
                 "source_mapping": {
                   "start": 209,
                   "length": 344,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7819,7 +7712,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7959,7 +7851,6 @@
             "source_mapping": {
               "start": 644,
               "length": 160,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -7980,7 +7871,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8103,7 +7993,6 @@
             "source_mapping": {
               "start": 703,
               "length": 47,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8121,7 +8010,6 @@
                 "source_mapping": {
                   "start": 644,
                   "length": 160,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8142,7 +8030,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8270,7 +8157,6 @@
             "source_mapping": {
               "start": 762,
               "length": 33,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8288,7 +8174,6 @@
                 "source_mapping": {
                   "start": 644,
                   "length": 160,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8309,7 +8194,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8449,7 +8333,6 @@
             "source_mapping": {
               "start": 1960,
               "length": 180,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8473,7 +8356,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8596,7 +8478,6 @@
             "source_mapping": {
               "start": 2038,
               "length": 30,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8614,7 +8495,6 @@
                 "source_mapping": {
                   "start": 1960,
                   "length": 180,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8638,7 +8518,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8766,7 +8645,6 @@
             "source_mapping": {
               "start": 2112,
               "length": 21,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8784,7 +8662,6 @@
                 "source_mapping": {
                   "start": 1960,
                   "length": 180,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8808,7 +8685,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8948,7 +8824,6 @@
             "source_mapping": {
               "start": 3640,
               "length": 189,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -8972,7 +8847,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9095,7 +8969,6 @@
             "source_mapping": {
               "start": 3722,
               "length": 29,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9113,7 +8986,6 @@
                 "source_mapping": {
                   "start": 3640,
                   "length": 189,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9137,7 +9009,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9265,7 +9136,6 @@
             "source_mapping": {
               "start": 3795,
               "length": 27,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9283,7 +9153,6 @@
                 "source_mapping": {
                   "start": 3640,
                   "length": 189,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9307,7 +9176,6 @@
                     "source_mapping": {
                       "start": 130,
                       "length": 3701,
-                      "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                       "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9447,7 +9315,6 @@
             "source_mapping": {
               "start": 999,
               "length": 42,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9465,7 +9332,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9587,7 +9453,6 @@
             "source_mapping": {
               "start": 596,
               "length": 42,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9605,7 +9470,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9738,7 +9602,6 @@
             "source_mapping": {
               "start": 644,
               "length": 160,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9759,7 +9622,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9893,7 +9755,6 @@
             "source_mapping": {
               "start": 209,
               "length": 344,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -9917,7 +9778,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10051,7 +9911,6 @@
             "source_mapping": {
               "start": 1043,
               "length": 283,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10074,7 +9933,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10208,7 +10066,6 @@
             "source_mapping": {
               "start": 1423,
               "length": 229,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10233,7 +10090,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10367,7 +10223,6 @@
             "source_mapping": {
               "start": 2852,
               "length": 199,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10388,7 +10243,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10522,7 +10376,6 @@
             "source_mapping": {
               "start": 3099,
               "length": 374,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10548,7 +10401,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10682,7 +10534,6 @@
             "source_mapping": {
               "start": 2146,
               "length": 275,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10706,7 +10557,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10840,7 +10690,6 @@
             "source_mapping": {
               "start": 3640,
               "length": 189,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10864,7 +10713,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -10998,7 +10846,6 @@
             "source_mapping": {
               "start": 2469,
               "length": 373,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -11024,7 +10871,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -11158,7 +11004,6 @@
             "source_mapping": {
               "start": 1697,
               "length": 233,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -11182,7 +11027,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -11316,7 +11160,6 @@
             "source_mapping": {
               "start": 1960,
               "length": 180,
-              "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
               "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
@@ -11340,7 +11183,6 @@
                 "source_mapping": {
                   "start": 130,
                   "length": 3701,
-                  "filename_used": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_relative": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_absolute": "/home/shuning/SolidiFI/tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",
                   "filename_short": "tool_results/Slither/analyzed_buggy_contracts/Re-entrancy/buggy_10.sol",

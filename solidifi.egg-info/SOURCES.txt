@@ -1,3 +1,6 @@
+LICENSE
+README.md
+setup.py
 solidifi.egg-info/PKG-INFO
 solidifi.egg-info/SOURCES.txt
 solidifi.egg-info/dependency_links.txt
