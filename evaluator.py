@@ -14,7 +14,8 @@ tools = []
 bug_types = [
 {'tool':'Oyente','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','TOD','Overflow-Underflow']},
 {'tool':'Securify','bugs':['Re-entrancy','Unchecked-Send','Unhandled-Exceptions','TOD']},
-{'tool':'Mythril','bugs':['Re-entrancy','Timestamp-Dependency','Unchecked-Send','Unhandled-Exceptions','Overflow-Underflow','tx.origin']},
+# {'tool':'Mythril','bugs':['Re-entrancy','Timestamp-Dependency','Unchecked-Send','Unhandled-Exceptions','Overflow-Underflow','tx.origin']},
+{'tool':'Mythril','bugs':['Overflow-Underflow','tx.origin']},
 {'tool':'Smartcheck','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','Overflow-Underflow','tx.origin']},
 {'tool':'Manticore','bugs':['Re-entrancy','Overflow-Underflow']},
 {'tool':'Slither','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin']}]
@@ -63,18 +64,18 @@ def evaluate_tools():
         shutil.rmtree("buggy")
 
     #inject bug types in all contracts for each tool
-    for tool in tools:    
-        for cs in x:
-            tool_bugs = [bugs['bugs'] for bugs in bug_types if  bugs['tool'] == tool]
-            for bug_type in tool_bugs[0]:
-                time = solidifi.interior_main("-i" ,"contracts/"+str(cs)+".sol" ,bug_type)
+    # for tool in tools:    
+    #     for cs in x:
+    #         tool_bugs = [bugs['bugs'] for bugs in bug_types if  bugs['tool'] == tool]
+    #         for bug_type in tool_bugs[0]:
+    #             time = solidifi.interior_main("-i" ,"contracts/"+str(cs)+".sol" ,bug_type)
 
-        tool_main_dir = os.path.join("tool_results",tool)
-        tool_buggy_sc = os.path.join(tool_main_dir,"analyzed_buggy_contracts")
-        os.system("rm -rf {0}".format(tool_buggy_sc))
-        os.makedirs(tool_buggy_sc,exist_ok=True)
-        mv_cmd = "mv buggy/* {0}".format(tool_buggy_sc)
-        os.system(mv_cmd)
+    #     tool_main_dir = os.path.join("tool_results",tool)
+    #     tool_buggy_sc = os.path.join(tool_main_dir,"analyzed_buggy_contracts")
+    #     os.system("rm -rf {0}".format(tool_buggy_sc))
+    #     os.makedirs(tool_buggy_sc,exist_ok=True)
+    #     mv_cmd = "mv buggy/* {0}".format(tool_buggy_sc)
+    #     os.system(mv_cmd)
         
     #check the generated buggy contracts 
     for tool in tools:
@@ -108,7 +109,7 @@ def evaluate_tools():
     
                 elif tool == 'Mythril':
                     #Mythril command        
-                    tool_cmd = "myth  analyze {0} --execution-timeout 900 > {1}".format(buggy_sc,result_file)                
+                    tool_cmd = "myth analyze {0} --execution-timeout 120 > {1}".format(buggy_sc,result_file)                
                     os.system(tool_cmd)
     
                 elif tool == 'Smartcheck':
@@ -154,7 +155,7 @@ if __name__ == "__main__":
             printUsage(sys.argv[0])
                 
         tools= sys.argv[1].split(',')
-        evaluate_tools()
+        # evaluate_tools()
         inspection.Inspect_results(tools)
         
     else:
