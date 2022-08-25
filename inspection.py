@@ -21,7 +21,7 @@ bug_types = [
 # {'tool':'Slither','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin']},
 {'tool':'Slither','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin','TOD','Overflow-Underflow']},
 {'tool':'Slither_dev','bugs':['Re-entrancy','Timestamp-Dependency','Unhandled-Exceptions','tx.origin','TOD','Overflow-Underflow']}]
-    
+# {'tool':'Slither_dev','bugs':['TOD']}]  
 securify_bug_codes =[{'bug':'Unhandled-Exceptions','codes':['UnhandledException']},{'bug':'TOD','codes':['TODAmount','TODReceiver','TODTransfer']},
 {'bug':'Unchecked-Send','codes':['UnrestrictedEtherFlow']},{'bug':'Re-entrancy','codes':['DAOConstantGas','DAO']}]
 mythril_bug_codes =[{'bug':'Unhandled-Exceptions','codes':['Unchecked Call Return Value']},{'bug':'Timestamp-Dependency','codes':['Dependence on predictable environment variable']},
@@ -137,7 +137,6 @@ def Inspect_results(_tools = []):
                 result_file = injected_scs+"/results/buggy_"+str(cs)+".sol.txt"
                 if tool in ("Slither","Slither_dev","Oyente"):
                     result_file = injected_scs+"/results/buggy_"+str(cs)+".sol.json"
-
                 #Read the injected bug logs
                 with open(bug_log, 'r') as f:
                     reader = csv.reader(f)
@@ -296,6 +295,8 @@ def Inspect_results(_tools = []):
                     
                     for viol in violation_locs:
                         line = re.findall(r'(?<=sol#)[0-9]*(?=\))',viol['desc'])
+                        # if viol['type'] == 'TOD':
+                        #     print(viol, line)
                         if len(line)>0:
                             bugLine = int (line[0])                        
                         bugType = viol['type']
@@ -306,7 +307,7 @@ def Inspect_results(_tools = []):
                     false_negatives = []
                     misclassifications = []
                     tool_reported_bugs = [bugs for bugs in reported_bugs if  bugs['tool'] == tool and bugs['contract'] ==cs]
-                    tool_bug_codes = [codes for codes in slither_dev_bug_codes if  codes['bug'] == bug_type]                     
+                    tool_bug_codes = [codes for codes in slither_dev_bug_codes if  codes['bug'] == bug_type]                    
                     for ibug in bug_log_list[1:len(bug_log_list)]:
                         detected = False
                         misclassified = False
@@ -322,7 +323,7 @@ def Inspect_results(_tools = []):
                         if misclassified == True and detected == False:
                             misclassifications.append(ibug)
                  
-                    #print(false_negatives) 
+                    # print(false_negatives)
                     slither_dev_ibugs +=(len(bug_log_list)-1)
                     slither_dev_bug_fn +=len(false_negatives)
                     slither_dev_misclas +=len(misclassifications)
@@ -872,9 +873,10 @@ def extract(obj, arr, key):
             if isinstance(v, (dict, list)):
                 extract(v, arr, key)
             elif k == key:
-                for k1, v1 in obj.items():
-                    if k1 in ('description','check'):
-                        arr.append(v)
+                arr.append(v)
+                # for k1, v1 in obj.items():
+                #     if k1 in ('description','check'):
+                #         arr.append(v)
     elif isinstance(obj, list):
         for item in obj:
             extract(item, arr, key)
