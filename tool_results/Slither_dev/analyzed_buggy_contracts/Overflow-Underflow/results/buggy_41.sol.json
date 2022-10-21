@@ -13469,16 +13469,6 @@
         "confidence": "Medium"
       },
       {
-        "elements": [],
-        "description": "solc-0.5.12 is not recommended for deployment\n",
-        "markdown": "solc-0.5.12 is not recommended for deployment\n",
-        "first_markdown_element": "",
-        "id": "5f5adbf7dfdf650f4e405e8a73895297f69ab1c62e5bb9a8f2849bdff9222e5d",
-        "check": "solc-version",
-        "impact": "Informational",
-        "confidence": "High"
-      },
-      {
         "elements": [
           {
             "type": "pragma",
